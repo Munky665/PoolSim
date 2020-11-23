@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OBB">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAwAAqAAAACAAAAAAAJIIAQAAACAAAhAAEIACAA=</HashCode>
+      <FileName>OBB.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsFrameWorkApp">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhAIAAAAAABAAIAAAggAAAAAAAAAAAAAAAEEAA=</HashCode>
+      <FileName>PhysicsFrameWorkApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsObject">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAgAAAIIAAAAACAAAAAAAAAAAAgAABAAAAAA=</HashCode>
+      <FileName>PhysicsObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhysicsScene">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBaCBECAQEAAADggAAAEAAggABgAAAAARAEAgIABAJA=</HashCode>
+      <FileName>PhysicsScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plane">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAhACgAAAIAAAgCACAAAIAIAAAAABAIAAEAAAAA=</HashCode>
+      <FileName>Plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rigidbody">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgEAqCAAIAhAACACAAEYAAAA0SQBAAIAAGAGAA=</HashCode>
+      <FileName>Rigidbody.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAgAIAAAAAAQAAAAAAQQAAACAAAAAAAgIAAA=</HashCode>
+      <FileName>Sphere.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CueBall">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAgBAAAAAAAAQAAAAIAAAAIAGBAAA=</HashCode>
+      <FileName>CueBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="fn" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsScene.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="ShapeType">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAIAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PhysicsObject.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
